@@ -1,4 +1,4 @@
-Keep track of the release date of Anime/TV Shows
+Track release dates of next episodes from Anime/TV Shows
 
 # Required Python Packages
 
