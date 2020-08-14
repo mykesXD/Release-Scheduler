@@ -1,3 +1,5 @@
+Keep track of the release date of Anime/TV Shows
+
 # Required Python Packages
 
 - PIL
