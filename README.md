@@ -7,4 +7,4 @@ Track release dates of next episodes from Anime/TV Shows
 - Pyglet
 ## Download the EXEcutable
 
-https://drive.google.com/file/d/1RNP2RbjAzWjlARnfBAvKbEDZ1fQCbAoC/view?usp=sharing
+:point_right: http://tiny.cc/ReleaseScheduler
