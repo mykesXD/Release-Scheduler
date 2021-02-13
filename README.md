@@ -9,4 +9,4 @@ Track release dates of next episodes from Anime/TV Shows
 
 :point_right: http://tiny.cc/ReleaseScheduler
 
-<img src = "https://mykes.s-ul.eu/8apa4pmz">
+<img src = "https://mykes.s-ul.eu/8apa4pmz" width = 60% height = auto>
